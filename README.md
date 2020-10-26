@@ -10,6 +10,6 @@ The objective of the reading group is to learn about Jax. For each session we ch
 
 ## Future session
 
-*19th October 2020:*
+*29th October 2020:*
 - Creating random numbers with Jax and reading the pseudorandom number generator (PRNG) [design notes](https://github.com/google/jax/blob/master/design_notes/prng.md)
 - Application: stochastic gradient descent for logistic regression
