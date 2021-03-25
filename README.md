@@ -1,19 +1,22 @@
 # Jax reading group
 
-The objective of the reading group is to learn about JAX. For each session we chose a few features of JAX to learn about.
+The objective of the reading group is to talk about JAX and scientific computing in general.
 
 
 ## Past sessions
 
-1. `grad`, `vmap`, and `jit`: gradient descent for logistic regression (15th October 2020)
+- `grad`, `vmap`, and `jit`: gradient descent for logistic regression (15th October 2020)
 
-2. Design of the JAX random number generator and stochastic gradient descent.
+- Design of the JAX random number generator and stochastic gradient descent (23rd October 2020)
 
-3. Automatic differentiation
+- Automatic differentiation with JAX (12th November 2020)
 
-4. The [Jaxpr](https://jax.readthedocs.io/en/latest/jaxpr.html): what it is and how to use it
+- The [Jaxpr](https://jax.readthedocs.io/en/latest/jaxpr.html): what it is and how to use it (26th November 2020)
 
-## Future session
+- Tensorflow for probabilistic programming: [Colab link](https://colab.research.google.com/drive/1waz5NrteOcDk4PiFP8ASGfR3xcNgd117?usp=sharing#scrollTo=LxN-UiiC5sxu) (11th February 2021)
 
-*10th December 2020:*
-- TBC but maybe [loops/scan/while](https://jax.readthedocs.io/en/latest/notebooks/Common_Gotchas_in_JAX.html#Structured-control-flow-primitives)
+- intro to NumPyro (25th February 2021)
+
+- Jitted loops, vmap/pmap, and progress bars (25th March 2021)
+
+<!-- ## Future session -->
