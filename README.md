@@ -15,7 +15,7 @@ The objective of the reading group is to talk about JAX and scientific computing
 
 - Tensorflow for probabilistic programming: [Colab link](https://colab.research.google.com/drive/1waz5NrteOcDk4PiFP8ASGfR3xcNgd117?usp=sharing#scrollTo=LxN-UiiC5sxu) (11th February 2021)
 
-- intro to NumPyro (25th February 2021)
+- intro to NumPyro (25th February 2021): [video recording](https://web.microsoftstream.com/video/ac49db21-6ee6-4f7f-ad5b-9cb2fbd3443b)
 
 - GPJax overview (11th March)
 
