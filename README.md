@@ -20,3 +20,5 @@ The objective of the reading group is to talk about JAX and scientific computing
 - GPJax overview (11th March)
 
 - Jitted loops, vmap/pmap, and progress bars (25th March 2021)
+
+- Normalising Flows in Jax (8th April 2021)
